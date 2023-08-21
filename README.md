@@ -1,6 +1,10 @@
 
 # react-native-shared-group-preferences
 
+## Forked Repo
+This branch was forked to allow modifications to the original repo, since its no longer actively maintained.
+Refer: [KjellConnelly/react-native-shared-group-preferences](https://github.com/KjellConnelly/react-native-shared-group-preferences)
+
 ## Too Lazy to Test Locally. Make sure to install from NPM as the github version is currently under testing.
 
 ## What is this Module for?
